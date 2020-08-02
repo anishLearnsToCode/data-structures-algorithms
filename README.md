@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Specialization @Coursera
 
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/data-structures-algorithms)
 ![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
