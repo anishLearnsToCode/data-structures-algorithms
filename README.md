@@ -5,7 +5,7 @@
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![platform](https://img.shields.io/badge/Platform-Coursera-1f72ff.svg)](https://www.coursera.org/specializations/data-structures-algorithms)
 ![uni](https://img.shields.io/badge/Partner-University%20California%20San%20Deigo-1f72ff.svg)
 ![uni](https://img.shields.io/badge/Partner-National%20Research%20University%20Higher%20School%20Economics-1f72ff.svg)
