@@ -14,9 +14,11 @@ This is a specialization on
 [Coursera](https://www.coursera.org/specializations/data-structures-algorithms) 
 which contains the following 6 courses:
 
-1. [Classical CryptoSystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems) [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts) [🎓](https://www.coursera.org/verify/7FVGRVKAFW73)
-1. [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography) [:octocat:](https://github.com/anishLearnsToCode/mathematical-foundations-cryptography)
-1. [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto)
-1. [Assymetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
+1. [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms) [:octocat:](https://github.com/anishLearnsToCode/algorithmic-toolbox) [🎓](http://coursera.org/verify/UWWDZKHQA86D)
+1. [Data Structures](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms)
+1. [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms)
+1. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms) 
+1. [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
+1. [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
